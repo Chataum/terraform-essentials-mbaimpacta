@@ -10,7 +10,7 @@ terraform {
 provider "google" {
   version = "3.5.0"
 
-  credentials = file("/vagrant/marco-mbaimpacta-turma04-9de2fb135fb1.json")
+#  credentials = file("/vagrant/marco-mbaimpacta-turma04-9de2fb135fb1.json")
 
   project     = "marco-mbaimpacta-turma04"
   region  = "us-central1"
