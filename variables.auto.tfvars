@@ -1,3 +1,3 @@
 # Variáveis do GCP
-gcp_project   = "gabydias-cloudautomation"
+gcp_project   = "marco-mbaimpacta-turma04"
 
